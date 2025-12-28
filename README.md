@@ -26,7 +26,9 @@
 
 - ⚡ Fun fact **I engineered a serverless e-commerce solution to save a client from database costs**
 
-<h3 align="left">Connect with me:</h3>
+<br>
+
+### 📞Connect with me:
 <p align="left">
 <a href="https://twitter.com/mondalz493" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mondalz493" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zahid-mondal-83a2592a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahid-mondal-83a2592a7" height="30" width="40" /></a>
@@ -39,8 +41,9 @@
 <a href="https://auth.geeksforgeeks.org/user/mondaly5w9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mondaly5w9" height="30" width="40" /></a>
 <a href="https://discord.gg/cBs8Aa9S6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cBs8Aa9S6" height="30" width="40" /></a>
 </p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
+### 💻Languages and Tools:
 
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -77,6 +80,8 @@
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+<br>
+
 ### 📊 Stats
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -86,13 +91,15 @@
 
 
 ---
-<div>
-  ✍️ Random Dev Quote
-  
+### ✍️ Random Dev Quote
+<div align="center">
+   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 </div>
 ---
-<img src="https://raw.githubusercontent.com/Zahid9985/Zahid9985/output/snake.svg" alt="Snake animation" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/Zahid9985/Zahid9985/output/snake-dark.svg" alt="Snake animation" />
+</div>
 
 
