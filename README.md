@@ -93,5 +93,6 @@
 
 </div>
 ---
+<img src="https://raw.githubusercontent.com/Zahid9985/Zahid9985/output/snake.svg" alt="Snake animation" />
 
 
