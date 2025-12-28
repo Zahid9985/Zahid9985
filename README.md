@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **mondalz493@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1c_Yyrf1sppJgiTzs1KrkHHy4LiZnilhL/view?usp=drive_link](https://drive.google.com/file/d/1c_Yyrf1sppJgiTzs1KrkHHy4LiZnilhL/view?usp=drive_link)
+- 📄 Here is my Resume [https://drive.google.com/file/d/1c_Yyrf1sppJgiTzs1KrkHHy4LiZnilhL/view?usp=drive_link](https://drive.google.com/file/d/1c_Yyrf1sppJgiTzs1KrkHHy4LiZnilhL/view?usp=drive_link)
 
 - ⚡ Fun fact **I engineered a serverless e-commerce solution to save a client from database costs**
 
