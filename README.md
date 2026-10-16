@@ -26,6 +26,41 @@
 
 <div align="center">
 
+## 💻 Dev Profile 💻
+
+</div>
+
+```bash
+$ neofetch --user zahid9985
+
+                     +*%@@%@%%%*
+                 =%%@%#%%%%%%%#%%*                 zahid@mondal
+                %%%@@@@@%%@%%%%@#%%#               -------------------------------------------------
+              +%%%%#+-:..::::==*%@%#               Role:       Full Stack Developer
+              %%%%*.....:....  .:#@%               Education:  B.Tech CSE, Adamas University (2027)
+               @%%:..::::::.:..:.-%%               Focus:      Full-Stack Web, REST APIs, AI/ML
+               @* .-=-=:.      .. #*               Learning:   AI & Machine Learning in Python
+               %-.-=+++##- .*####+-                Building:   Next Gen Event Calendar
+              :+.+-++#*#=#-##%#*- .
+             *.= :  :.::=  ..:::: .+               Languages:  JavaScript, Python, C++, C, SQL
+             =#*  ::::=+:-.:.-::--:+               Frontend:   HTML, CSS, React.js
+              =*=::   :-*=++=     =-               Backend:    Node.js, Express.js, REST, JWT
+                #=-:.*+=----*#*.:=+                Databases:  PostgreSQL, MongoDB, Prisma
+                 *=-:.  .==:  .:**                 Cloud:      AWS Foundations, OCI AI Foundations
+                 +###*.  .:  :**=
+                 -.=*%%@%%%%%*=                    Contact:
+              =-==:. .-+**+-..:                    Email:      mondalz493@gmail.com
+        +#%@@%..--:--::...:::-:-%*=                LinkedIn:   zahid-mondal-83a2592a7
+  +#%@@@@%%%%@%:  ....:::::::. =%%@@@%*=           Portfolio:  my-portfolio-three-chi-29.vercel.app
+@@%%%%%%%%%%%%%@%=.          :*@%%%%%%%@@@%*=      LeetCode:   e3sy3nr9js
+%%%%%%%%%%%%%%%%%%@@#*=--=+*%@%%%%%%%%%%%%%%%@#    HackerRank: mondalz493
+%%%%%%%%%%%%%%%%%%%%%@@@@%%%%%%%%%%%%%%%%%%%%%%@
+```
+
+---
+
+<div align="center">
+
 ## 👨‍💻 About Me 👨‍💻
 
 </div>
@@ -202,17 +237,14 @@ DSA, OOP and DBMS fundamentals, practiced on LeetCode and HackerRank.
 
 <br/>
 
-<a href="https://github.com/Zahid9985?tab=achievements">
+<a href="https://github.com/Zahid9985?achievement=pull-shark&tab=achievements">
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="95px" alt="Pull Shark" title="Pull Shark - Merged Pull Requests"/>
 </a>
-<a href="https://github.com/Zahid9985?tab=achievements">
+<a href="https://github.com/Zahid9985?achievement=yolo&tab=achievements">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95px" alt="YOLO" title="YOLO - Merged a pull request without code review"/>
+</a>
+<a href="https://github.com/Zahid9985?achievement=quickdraw&tab=achievements">
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="95px" alt="Quickdraw" title="Quickdraw - Closed an issue or PR within 5 minutes"/>
-</a>
-<a href="https://github.com/Zahid9985?tab=achievements">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95px" alt="Pair Extraordinaire" title="Pair Extraordinaire - Co-authored commits"/>
-</a>
-<a href="https://github.com/Zahid9985?tab=achievements">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="95px" alt="Starstruck" title="Starstruck - Earned stars on GitHub"/>
 </a>
 
 <br/>
