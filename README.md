@@ -6,7 +6,7 @@
   />
 </p>
 
-# <p align="center">Hi<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40">, I'm Zahid Mondal</p>
+# <p align="center">Hi<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40">, I'm Zahid</p>
 
 <p align="center">
   <strong>Full Stack Developer building CRM platforms, REST APIs & AI-powered web apps.</strong>
